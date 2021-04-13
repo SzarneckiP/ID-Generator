@@ -1,0 +1,8 @@
+{
+  "name": "@szarneckip/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:SzarneckiP/ID-Generator.git",
+  "author": "SzarneckiP <siarniuk@gmail.com>",
+  "license": "MIT"
+}
